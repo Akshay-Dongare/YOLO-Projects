@@ -7,7 +7,7 @@ cap.set(3, 640)
 cap.set(4, 480)
 
 # model
-model = YOLO("./best.pt")
+model = YOLO("./runs/detect/train/weights/best.pt")
 
 # object classes
 classNames = ['fire']
