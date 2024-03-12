@@ -1,4 +1,15 @@
 # Fire Detection with YOLOv8
+ 
+# Note: 
+* I have uploaded the model I trained for 80 epochs under `runs/detect/train/weights/best.pt`
+* I trained the model on Google Colab on T4 GPU
+# To run on webcam
+```
+python ./predict_on_webcam.py
+```
+# Training on your own again
+* Follow the notebook `yolov8_on_fire.ipynb`
+# References
 @misc{
                             continuous_fire_dataset,
                             title = { continuous_fire Dataset },
