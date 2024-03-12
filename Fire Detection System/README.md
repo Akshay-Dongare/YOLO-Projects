@@ -9,6 +9,8 @@ python ./predict_on_webcam.py
 ```
 # Training on your own again
 * Follow the notebook `yolov8_on_fire.ipynb`
+# Dataset
+* I have uploaded the dataset on which yolov8 was transfer learned under `continuous_fire-6`
 # References
 @misc{
                             continuous_fire_dataset,
