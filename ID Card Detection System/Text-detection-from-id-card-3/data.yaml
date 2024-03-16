@@ -1,0 +1,14 @@
+names:
+- birthday
+- id
+- name
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: text-detection-from-id-card
+  url: https://universe.roboflow.com/idcardocr-cnbea/text-detection-from-id-card/dataset/3
+  version: 3
+  workspace: idcardocr-cnbea
+test: /content/Text-detection-from-id-card-3/test/images
+train: /content/Text-detection-from-id-card-3/train/images
+val: /content/Text-detection-from-id-card-3/valid/images

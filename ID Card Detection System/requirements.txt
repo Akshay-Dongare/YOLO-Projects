@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-python
+ultralytics
+supervision
+opencv-python-headless==4.8.0.74
