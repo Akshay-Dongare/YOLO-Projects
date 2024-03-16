@@ -1,3 +1,14 @@
+# Train
+Open `Yolov9_ID_detection.ipynb`
+
+# Use
+1. ```
+   pip install --upgrade -r requirements.txt
+   ```
+2. ```
+   python ./predict_using_webcam.py
+   ```
+# References
 @misc{
                             text-detection-from-id-card_dataset,
                             title = { Text detection from id card Dataset },
